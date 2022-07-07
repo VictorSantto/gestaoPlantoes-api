@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<settings>
+	<package>gestaoplantoes-api</package>
+	<debug>true</debug>	
+	<connection>
+		<is_official>false</is_official>
+	</connection>
+	<jwt>jwt</jwt>
+</settings>
